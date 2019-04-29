@@ -65,6 +65,7 @@ Week 10 (P10): 1) Added API feature by copying the given sample API implementati
                   from the GSON library
                4) Methods for loading the saved data no longer works, as the fields of Book and and General User has
                   changed and files are saved to JSON. Will change this implementation for P11 accordingly;
+                  
 Week 11-12 (P11): 1)Removed API feature from P10 to reduce non-applicable features for GUI
                   2)Commented out all "place hold" features and its relevant Observers and Subject for the simplicity
                   of application basic GUI building
