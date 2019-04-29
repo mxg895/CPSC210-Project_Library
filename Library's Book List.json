@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Harry Potter and the Deathly Hollows",
+    "availability": "on-loan",
+    "loanedTo": {
+      "userID": "92085"
+    }
+  },
+  {
+    "title": "b",
+    "availability": "on-loan",
+    "loanedTo": {
+      "userID": "2293594"
+    }
+  },
+  {
+    "title": "c",
+    "availability": "available",
+    "loanedTo": null
+  },
+  {
+    "title": "e",
+    "availability": "available",
+    "loanedTo": null
+  },
+  {
+    "title": "Test",
+    "availability": "on-loan",
+    "loanedTo": {
+      "userID": "7920395"
+    }
+  },
+  {
+    "title": "Programming in Java",
+    "availability": "on-loan",
+    "loanedTo": {
+      "userID": "2293594"
+    }
+  }
+]

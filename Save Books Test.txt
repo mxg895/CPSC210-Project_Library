@@ -1,0 +1,4 @@
+Test: available
+Next: on-loan
+Random Book: available
+Unavailable Book Here: on-loan
