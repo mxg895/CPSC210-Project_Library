@@ -1,4 +1,4 @@
-# Personal Project
+# Personal Project for CPSC 210
 :arrow_forward: Please refer to [edX][1] for description and instructions.
 
 Week 1(P1): created an ui package with a class that contains a main method which calls 2 other methods.
